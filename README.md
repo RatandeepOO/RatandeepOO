@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RatandeepOO.
+- 👀 I’m interested in Python programming language.
+- 🌱 I’m currently learning Python object-oriented programming.
+- 💞️ I’m looking to collaborate with a Python expert.
+- 📫 You can contact me by my email- at aroraratandeep77@gmail.com.
