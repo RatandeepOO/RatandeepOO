@@ -55,8 +55,10 @@
 
 ### 🔝 Top Contributed Repo
 
-![Contrib](https://github-contributor-stats.vercel.app/api?username=RatandeepOO&limit=5&theme=dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RatandeepOO&theme=react-dark)
+
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=RatandeepOO&label=Profile%20Views&color=4&icon=6&pretty=true)
+![Profile Views](https://komarev.com/ghpvc/?username=RatandeepOO&style=flat-square&color=blue)
+
