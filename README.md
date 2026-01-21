@@ -21,9 +21,10 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=RatandeepOO&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RatandeepOO&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RatandeepOO&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=RatandeepOO&show_icons=true&theme=dark)
+![Streak](https://streak-stats.demolab.com?user=RatandeepOO&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatandeepOO&layout=compact&theme=dark)
+
 
 ## 🏆 GitHub Trophies
 
