@@ -39,11 +39,6 @@
 ![Streak](https://github-readme-streak-stats-eight.vercel.app/?user=RatandeepOO&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatandeepOO&layout=compact&theme=dark)
 
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=RatandeepOO&theme=radical&margin-w=6)
 
 ---
 
